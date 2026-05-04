@@ -19,3 +19,10 @@ a = a+b
 b = a-b
 a = a-b
 print("After swapping: a =", a, "b =", b)   
+
+
+height = 39
+width = 20
+
+area = height * width
+print("Area of rectangle is:", area)    
